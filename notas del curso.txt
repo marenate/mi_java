@@ -1,0 +1,1 @@
+git status -- verificar el estado del repositorio archivos y carpetas nuevas
